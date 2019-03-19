@@ -31,6 +31,7 @@ print("Value of name ==> \(myClass.name)")
 myClass.name = "Nopita"
 print(myClass.name)
 
+
 //Call Function or Call Method
 myClass.methodVoidType()
 
